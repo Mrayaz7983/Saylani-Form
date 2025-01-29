@@ -1,0 +1,119 @@
+.container {
+    text-align: center;
+    width: 80%;
+    margin: 2px auto;
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    display: inline-block;
+}
+
+h1 {
+    margin-top: 1px;
+}
+
+::placeholder {
+    color: gray;
+    font: size 8px;
+}
+
+label {
+    color: #0D71BD;
+   float: left;
+   margin-bottom: 1px;
+
+}
+
+button {
+    padding: 10px;
+    border: transparent;
+    color: #0D71BD;
+    background-color: #FAFAFA;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+
+
+input {
+    width: 96%;
+    padding: 10px;
+    border: 1px solid #8DC63F;
+    border-radius: 5px;
+    font-size: 14px;
+    margin-top: 12px;
+
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #8DC63F;
+    border-radius: 5px;
+    margin-top: 12px;
+    font-size: 14px;
+}
+
+.uploading {
+
+display: flex;
+margin-left: 1rem;
+gap: 1.3rem;
+
+}
+p{
+  margin-top: 2px;
+}
+.btn-2{
+    border: 1.5px rgba(99, 99, 99, 0.466);
+    height: 95px;
+    width: 85px;
+    text-align: center;
+    background-color: #f7f5f5fb;
+    border-radius: 8px;
+    margin-left: 7.7rem;
+    cursor: pointer;
+    border-style: dotted;
+   
+}
+.button2 {
+    background-color: #0D6DB7;
+    color: #ffff;
+    font-size: 1rem;
+    width: 60rem;
+    font-weight: 500;
+    border-radius: 10px;
+    margin: 20px;
+    margin-left: 12rem;
+       
+  
+}
+
+
+textarea {
+    border-color: #8DC63F;
+    height: 33px;
+    padding: 4px 28.2rem;
+    margin-bottom: 10px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.column {
+    flex: 0 0 48%;
+    text-align: left;
+}
+
+.para {
+    margin-left: 8.6rem;
+}
+
+li {
+    margin-left: 7rem;
+}
+
